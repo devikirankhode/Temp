@@ -6,7 +6,7 @@ The directory /projects contains sample projects for:
  * the different ways to execute unit tests and get code coverage data
 
 ## SonarQube Plugins
-
+#Comment here
 The directory /plugins contains the most frequent kinds of plugins:
  * Extensions of rule engines like Java and JavaScript
  * Define a new metric, compute measures and display them in web app
